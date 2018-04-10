@@ -1,6 +1,7 @@
-# Travel Points
+# BBVA PLAN
 
-![Travel Points Logo](images/logotravel.png)
+![logo azul](https://user-images.githubusercontent.com/30583011/38585760-abc23410-3ce0-11e8-9953-abd244a34452.png)
+
 
 ## Índice
 
